@@ -1,6 +1,6 @@
-- USER//@SDCast1
-- INTERESTS//software and tech
-- CURRENTLY LEARNING//how to develop a game 
-- CONTACT//Discord//segadreamcast.
+- @SDCast1
+- software developer
+- learning how to develop a game 
+- Discord: segadreamcast. *(be sure to add the period)*
 - **(NOT ACCEPTING FRIEND REQUESTS)**
-- PRONOUNS//He/Him
+- he/him
