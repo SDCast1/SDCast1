@@ -1,4 +1,4 @@
-- @SDCast1
+- @SDCast
 - software developer
 - learning how to develop a game 
 - Discord: segadreamcast. *(be sure to add the period)*
